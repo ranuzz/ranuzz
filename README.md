@@ -1,7 +1,22 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [makeall.dev](https://makeall.dev/)
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: ranuzz@outlook.com
+
+
+
 <!--
 **ranuzz/ranuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+|Header1 |Header2  |
+--- | --- |
+|data1|data2|
+|data1|data2|
+|data1|data2|
+|data1|data2|
+|data1|data2|
+|data1|data2|
 
 Here are some ideas to get you started:
 
