@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [makeall.dev](https://makeall.dev/)
-- 🌱 I’m currently learning [PixiJS](https://pixijs.com/)
+- 🌱 I’m currently learning [rust](https://www.rust-lang.org/)
 - 📫 How to reach me: ranuzz@outlook.com
 
 
